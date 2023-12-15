@@ -1,0 +1,9 @@
+def hash(chars):
+    
+    current_value = 0 
+    
+    for char in chars:
+        current_value = ((current_value + ord(char)) * 17) % 256
+    return current_value
+
+print(sum(hash(char) for char in input))
