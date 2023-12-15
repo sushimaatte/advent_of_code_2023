@@ -1,2 +1,3 @@
-# advent_of_code_2023
-adventofcode exercises 2023
+This project exists of challenges from https://adventofcode.com/
+
+This project is only made for fun and for challenging my python skills.
